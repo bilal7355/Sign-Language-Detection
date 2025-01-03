@@ -1,0 +1,9 @@
+numpy
+mediapipe
+os
+sklearn
+pyttsx3
+flask
+threading
+queue
+opencv-python
